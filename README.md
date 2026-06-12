@@ -42,6 +42,7 @@ d)	Switch ‘off’ the supply after taking thereadings.
 **Calculation:**
 
 **Marksplitup:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/b131bd67-8b0d-4400-b3e2-5863859bf532" />
 
 
 
